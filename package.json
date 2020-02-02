@@ -1,0 +1,13 @@
+{
+  "name": "@raisiqueira/test-github-pkg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raisiqueira/test-github-pkg.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
